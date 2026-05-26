@@ -1,12 +1,12 @@
 # 
-# # 👾 Vicenç Obiol Boter
+# #  Vicenç Obiol Boter
 
 > 💻 Apassionat per la ciberseguretat | Ethical Hacking & OSINT  
 > 🎯 Estudiant de SMX — en constant aprenentatge
 
 ---
 
-## 🧠 Sobre mi
+##  Sobre mi
 
 Em dic Vicenç Obiol Boter, tinc 18 anys i actualment estic cursant el **Grau Mitjà de Sistemes Microinformàtics i Xarxes (SMX)**.
 
@@ -16,9 +16,9 @@ Em considero una persona responsable, curiosa i amb moltes ganes de créixer din
 
 ---
 
-## 💼 Experiència
+## Experiència
 
-### 🖥️ Administrador de Sistemes (Pràctiques)
+###  Administrador de Sistemes (Pràctiques)
 📍 *Institut Pia Granollers*  
 ⏳ 6 mesos  
 
@@ -29,7 +29,7 @@ Em considero una persona responsable, curiosa i amb moltes ganes de créixer din
 
 ---
 
-### 🛍️ Atenció al client
+###  Atenció al client
 📍 *Bellasarts Boter*  
 ⏳ 3 mesos  
 
@@ -39,7 +39,7 @@ Em considero una persona responsable, curiosa i amb moltes ganes de créixer din
 
 ---
 
-### ❤️ Suport social
+###  Suport social
 📍 *Residència Sant Marc (Mataró)*  
 ⏳ 1 mes  
 
@@ -49,7 +49,7 @@ Em considero una persona responsable, curiosa i amb moltes ganes de créixer din
 
 ---
 
-## 🛡️ Interessos tècnics
+##  Interessos tècnics
 
 - 🔐 Ciberseguretat  
 - 🧑‍💻 Hacking ètic  
@@ -59,12 +59,12 @@ Em considero una persona responsable, curiosa i amb moltes ganes de créixer din
 ---
 
 ## 🎓 Formació
-
+- ESO (Formació Secundaria Obligatoria)
 - 📚 Grau Mitjà en Sistemes Microinformàtics i Xarxes (en curs)
 
 ---
 
-## 🌍 Idiomes
+##  Idiomes
 
 - 🟡 Català — Nadiu  
 - 🇪🇸 Castellà — Nadiu  
@@ -72,7 +72,7 @@ Em considero una persona responsable, curiosa i amb moltes ganes de créixer din
 
 ---
 
-## 🌄 Interessos personals
+##  Interessos personals
 
 - 🏔️ Alta muntanya  
 - 📸 Fotografia de paisatges  
@@ -80,21 +80,20 @@ Em considero una persona responsable, curiosa i amb moltes ganes de créixer din
 
 ---
 
-## 🚀 Objectiu professional
+## Objectiu professional
 
 El meu objectiu és especialitzar-me en el camp de la **seguretat informàtica**, adquirint experiència en entorns reals i formant part de projectes on pugui aplicar els meus coneixements, aportar valor i continuar aprenent cada dia.
 
 ---
 
-## 📫 Contacte
+##  Contacte
 
 @V.Obiol
 
-Vicenc.obiol@gmail.com
+telefon: 655516711
+
+Mail: Vicenc.obiol@gmail.com
 ---
 
 ⭐ *Gràcies per visitar el meu perfil*
 
----
-
-⭐ *Gracias por visitar mi perfil*
