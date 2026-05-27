@@ -29,26 +29,6 @@ Em considero una persona responsable, curiosa i amb moltes ganes de créixer din
 
 ---
 
-###  Atenció al client
-📍 *Bellasarts Boter*  
-⏳ 3 mesos  
-
-- Tracte directe amb clients  
-- Gestió de vendes i consultes  
-- Desenvolupament d’habilitats comunicatives  
-
----
-
-###  Suport social
-📍 *Residència Sant Marc (Mataró)*  
-⏳ 1 mes  
-
-- Ajuda a persones grans  
-- Treball en equip  
-- Desenvolupament d’empatia i responsabilitat  
-
----
-
 ##  Interessos tècnics
 
 - 🔐 Ciberseguretat  
@@ -86,14 +66,4 @@ El meu objectiu és especialitzar-me en el camp de la **seguretat informàtica**
 
 ---
 
-##  Contacte
-
-@V.Obiol
-
-telefon: 655516711
-
-Mail: Vicenc.obiol@gmail.com
----
-
-⭐ *Gràcies per visitar el meu perfil*
 
