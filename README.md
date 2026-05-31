@@ -1,5 +1,5 @@
-# 
-# #  Vicenç Obiol Boter
+ 
+#  Vicenç Obiol Boter
 
 > 💻 Apassionat per la ciberseguretat | Ethical Hacking & OSINT  
 > 🎯 Estudiant de SMX — en constant aprenentatge
